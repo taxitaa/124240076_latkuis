@@ -1,4 +1,4 @@
-# latihankuis
+# Latihan Kuis
 
 
 NIM      : 124240076
